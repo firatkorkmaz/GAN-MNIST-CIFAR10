@@ -1,0 +1,6 @@
+tqdm
+torch
+torchvision
+matplotlib
+opencv-python
+jupyter
